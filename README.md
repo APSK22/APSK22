@@ -84,7 +84,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=APSK22&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=APSK22&icon=3&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=APSK22)
 
 
 
